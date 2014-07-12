@@ -1,2 +1,3 @@
 eclipse.preferences.version=1
 encoding//pydot/__init__.py=latin1
+encoding//test/pydot_unittest.py=iso-8859-1
